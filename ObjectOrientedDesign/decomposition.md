@@ -12,7 +12,7 @@ Depending on design it can relate part to whole by,
 			}
 		}
 `
--Aggregation- A week has a relationship or not heavily linked.Like whole object has a part object but do not cease to exist without the part or vice versa.
+- Aggregation- A week has a relationship or not heavily linked.Like whole object has a part object but do not cease to exist without the part or vice versa.
 `public class Airline{
 			private ArrayList<CrewMember> crew;
 			public Airline(){
@@ -24,7 +24,7 @@ Depending on design it can relate part to whole by,
 			}
 		}
 `
--Composition-A strong whole object has a part relationship,if the whole objects loses its part object the whole cease to exist and part are only accessible by whole where contained part are exclusive to whole.
+- Composition-A strong whole object has a part relationship,if the whole objects loses its part object the whole cease to exist and part are only accessible by whole where contained part are exclusive to whole.
 `public class Human{
 			private Brain brain;
 			public Human(){
