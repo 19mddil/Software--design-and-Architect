@@ -1,0 +1,25 @@
+w1
+	#creational patterns
+		*singleton pattern
+		*factory method pattern
+
+	#structural patterns
+		*fascade pattern
+		*adapter pattern
+		*composite pattern
+		*proxy pattern 
+		*decorator pattern
+w2
+	#behavioural patterns
+		*template method pattern
+		**chain of responsibilty pattern
+		*state pattern
+		*command pattern
+		**mediator pattern
+		*observer pattern
+w3
+	#Model-View-Controller Pattern
+		**MVC pattern
+
+
+
